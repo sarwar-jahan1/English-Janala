@@ -4,3 +4,11 @@
 .font-bangla{
     font-family: "Hind Siliguri", sans-serif;
 }
+.active{
+    background-color: #422AD5;
+    color: white;
+}
+
+/* <span class="btn">Enthusiastic</span>
+                    <span class="btn">excited</span>
+                    <span class="btn">keen</span> */
